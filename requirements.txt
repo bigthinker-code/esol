@@ -4,3 +4,4 @@ rdkit
 joblib
 numpy
 pandas
+plotly
